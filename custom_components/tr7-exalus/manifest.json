@@ -1,0 +1,14 @@
+{
+    "domain": "tr7",
+    "name": "TR7 Exalus",
+    "integration_type": "hub",
+    "config_flow": true,
+    "documentation": "https://github.com/krystaDev/tr7-exalus-home-assistant",
+    "issue_tracker": "https://github.com/krystaDev/tr7-exalus-home-assistant/issues",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": [
+      "@damian@krysta.dev"
+    ],
+    "version": "0.0.1"
+  }
